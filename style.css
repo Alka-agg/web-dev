@@ -20,13 +20,21 @@ section{
 h3{
   border: 1px solid black;
   font-weight: bold;
- background-color: grey;
   text-align: center;
   width: 30%;
   margin-left: 70%;
   margin-top:0;
   padding: 10px 0 10px 0;
   
+}
+#t1{
+   background-color: #FFD700;
+}
+#t2{
+   background-color: #DB7093;
+}
+#t3{
+   background-color: #DAA580;
 }
 
 .row {
